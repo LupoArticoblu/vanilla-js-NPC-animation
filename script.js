@@ -94,6 +94,7 @@ class Enemy2 extends Enemy {
     this.width = this.spriteWidth / 2.5;
     this.height = this.spriteHeight / 2.5;
     this.WingsDifferentFly = Math.floor(Math.random() * 3) + 1;
+    
   }
   
   update() {

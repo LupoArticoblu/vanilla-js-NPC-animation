@@ -2,14 +2,14 @@
   border: 3px solid black;
   position: absolute;
   width: 400px;
-  height: 1000px;
+  height: 900px;
 }
 
 #canvas2{
   border: 3px solid black;
   position: absolute;
   width: 400px;
-  height: 1000px;
+  height: 900px;
   left: 25%; 
 }
 
@@ -17,7 +17,7 @@
   border: 3px solid black;
   position: absolute;
   width: 400px;
-  height: 1000px;
+  height: 900px;
   left: 50%; 
 }
 
@@ -25,6 +25,6 @@
   border: 3px solid black;
   position: absolute;
   width: 400px;
-  height: 1000px;
+  height: 900px;
   left: 75%; 
 }
